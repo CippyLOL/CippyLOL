@@ -1,11 +1,6 @@
-### Hi there, welcome to my GitHub 👋
+### Hi there, welcome to my GitHub~ 👋
 
-- 🔭 I’m currently working on... New Chrome Extension
-- 🌱 I’m currently learning... Vanilla JS data structures
-- 👯 I’m looking to collaborate on... Web designs
-- 🤔 I’m looking for help with... JQuery
-- 💬 Ask me about... What's the best cheese?
+🔭 I’m currently working on... New Chrome Extension
+🌱 I’m currently learning... JS libraries
 
-- 📫 How to reach me: gilliannepapasin.com
-- 😄 Pronouns: She/ her
-- ⚡ Fun fact: I like to leathercraft!
+⚡ Hope you have a great day ahead~
